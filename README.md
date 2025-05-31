@@ -52,7 +52,7 @@ This is a learning project that recreates a meditation app UI using Jetpack Comp
 
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/MeditationApp.git
+git clone https://github.com/Ahmedzaid16/MeditationApp.git
 ```
 
 2. Open the project in Android Studio
