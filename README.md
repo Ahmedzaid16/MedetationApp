@@ -1,10 +1,14 @@
 # Meditation App UI
 
-A modern meditation app UI built with Jetpack Compose. This project demonstrates the implementation of a clean and calming user interface for a meditation application using Material Design 3 components and custom animations.
+A modern meditation app UI built with Jetpack Compose. This project is an implementation of a meditation app UI tutorial by [Philipp Lackner](https://www.youtube.com/watch?v=g5-wzZUnIbQ), based on a design from [Dribbble](https://dribbble.com/shots/15822493-Meditation-Mobile-App).
 
 <p align="center">
   <img src="screenshots/app_screenshot.png" width="300" alt="Meditation App Screenshot">
 </p>
+
+## About This Project
+
+This is a learning project that recreates a meditation app UI using Jetpack Compose. The implementation follows Philipp Lackner's tutorial, which demonstrates modern Android UI development practices.
 
 ## Features
 
@@ -62,43 +66,16 @@ git clone https://github.com/yourusername/MeditationApp.git
 - Target SDK: 34
 - Kotlin version: 1.9.0 or later
 
-## Project Structure
+## Credits
 
-```
-app/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/example/meditationapp/
-│   │   │       ├── ui/
-│   │   │       │   ├── theme/
-│   │   │       │   │   ├── Color.kt
-│   │   │       │   │   ├── Theme.kt
-│   │   │       │   │   └── Type.kt
-│   │   │       │   └── HomeScreen.kt
-│   │   │       └── MainActivity.kt
-│   │   └── res/
-│   │       └── drawable/
-│   │           └── [icons and images]
-│   └── androidTest/
-└── build.gradle.kts
-```
-
-## Contribution
-
-Feel free to contribute to this project by:
-1. Fork it
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is based on:
+- Original Design: [Meditation Mobile App](https://dribbble.com/shots/15822493-Meditation-Mobile-App) on Dribbble
+- Tutorial Implementation: [Philipp Lackner's Meditation UI Tutorial](https://www.youtube.com/watch?v=g5-wzZUnIbQ)
 
 ## Acknowledgments
 
+- Philipp Lackner for the excellent Jetpack Compose tutorial
+- Original design creators on Dribbble
 - Material Design Icons
 - Jetpack Compose Documentation
 - Android Development Community
