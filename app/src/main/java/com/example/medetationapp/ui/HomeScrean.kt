@@ -418,7 +418,7 @@ fun BottomMenuItem(
                 modifier = Modifier.size(20.dp)
             )
         }
-        Text(
+        Text(modifier = Modifier.padding(top = 5.dp),
             text = item.title,
             color = if(isSelected) activeTextColor else inactiveTextColor
         )
