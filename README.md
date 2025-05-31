@@ -2,7 +2,9 @@
 
 A modern meditation app UI built with Jetpack Compose. This project demonstrates the implementation of a clean and calming user interface for a meditation application using Material Design 3 components and custom animations.
 
-![Meditation App Screenshot](screenshots/app_screenshot.png)
+<p align="center">
+  <img src="screenshots/app_screenshot.png" width="300" alt="Meditation App Screenshot">
+</p>
 
 ## Features
 
